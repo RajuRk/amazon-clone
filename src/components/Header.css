@@ -25,12 +25,12 @@
   margin-right: 10px;
 }
 
-.header__optionBasket{
+.header__optionBasket {
   display: flex;
   align-items: center;
 }
 
-.header__basketCount{
+.header__basketCount {
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -58,11 +58,11 @@
   background-color: #cd9042;
 }
 
-.header__optionLineOne{
+.header__optionLineOne {
   font-size: 10px;
 }
 
-.header__optionLineTwo{
+.header__optionLineTwo {
   font-size: 13px;
   font-weight: 800;
 }
